@@ -1,4 +1,4 @@
-# HistoBoxPlot 
+# HistoBoxPlot Library Package
 
 HistoBoxPlot is a Python package for creating combined histogram and boxplot visualizations. This tool is particularly useful for exploratory data analysis and presenting data distributions clearly and concisely. 
 

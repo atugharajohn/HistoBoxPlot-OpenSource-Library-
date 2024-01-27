@@ -30,7 +30,8 @@ seaborn
 Contributions to HistoBoxPlot are welcome! Please read the contributing guidelines. 
 
 ## License 
-This project is licensed under the MIT License. 
+This project is licensed under the Apache License, Version 2.0 - see the LICENSE file for details.
+
 
 ## Contact 
 If you have any questions or feedback, please contact me at If you have any questions or feedback, please contact me at atugharajohn@gmail.com.
